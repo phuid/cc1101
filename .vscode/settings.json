@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "esp_log.h": "c",
+    "cc1101.h": "c",
+    "optional": "c",
+    "istream": "c",
+    "ostream": "c",
+    "ratio": "c",
+    "system_error": "c",
+    "array": "c",
+    "functional": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "esp_rom_gpio.h": "c"
+  }
+}
